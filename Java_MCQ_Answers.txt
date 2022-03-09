@@ -1,0 +1,31 @@
+1. d) int
+2. B. Driving electric car
+3. B.Throwable
+4. D.throw
+5.c) java.lang
+6. a) 1 2 5 8
+7. d) try
+8. a) The snippet compiles and runs but does not print anything
+9. c) 256 0
+10. a) b cannot contain value 50
+11. c) Passing itself to another method\
+12. d) false true
+13. sb1.append(“abc”); s1 = s1.concat(“abc”);
+14. d) Compilation succeeds but at the time of creating object using default constructor, it throws
+compilation error
+15. a) Compilation error
+16.d) all of the mentioned
+17. a) Finally
+18.c) private
+19.b) Composition
+20.c) 1 0 3
+21. d Compiler Error because base class exception is caught before derived class
+22.B abdec
+23.a) At run time
+24.d) Compilation
+25.a) True
+26.b) object
+27.a) 10 5
+28.a) final
+29.C.Transfer statements
+30.b) java.lang.String
